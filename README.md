@@ -1,37 +1,30 @@
-# 👋 Hey, I'm Yug Patel!  
+👋 Hey, I'm Yug Patel!
+🚀 Full-Stack Developer | AI & ML Enthusiast | Data Science | Trading | Flask & FastAPI | C++
 
-🚀 **Developer | Python | Data Science | Trading | Flask & FastAPI | C++**  
+I'm passionate about building real-world, high-impact projects that solve problems and drive innovation. I specialize in backend development, AI-powered applications, and trading-related tech while constantly pushing my limits to learn new technologies.
 
-I'm passionate about **building real-world, high-impact projects** that solve problems and make a difference. I love working with **data, backend development, and trading-related applications**, constantly pushing my limits to explore new technologies.  
+🔥 What I Do:
+✅ AI & Data Science – Implementing ML models & NLP with Hugging Face
+✅ Backend Development – Building scalable APIs with FastAPI & Flask
+✅ Full-Stack Development – React.js for frontend & FastAPI for backend
+✅ Trading & Data Analysis – Automating trading strategies using AI
+✅ C++ & Databases – Efficient data storage & high-performance computing
 
----
+🛠 Tech Stack & Skills:
+🔹 Programming: Python, C++, JavaScript
+🔹 Backend: Flask, FastAPI, MySQL, SQLite
+🔹 Frontend: React.js, HTML, CSS, Tailwind CSS
+🔹 Data Science: NumPy, Pandas, Matplotlib, Hugging Face Transformers
+🔹 DevOps & Deployment: Docker, GitHub Actions, AWS (Basics)
 
-## 🔥 **What I Do:**  
-🔹 **Data Science & Trading** – Building data-driven applications  
-🔹 **Backend Development** – Creating scalable APIs with Flask & FastAPI  
-🔹 **C++ & Databases** – Exploring efficient data storage and retrieval  
+📌 Currently Learning & Working On:
+🚀 Advanced FastAPI & Flask – High-performance API architecture
+🚀 Full-Stack Integration – React.js + FastAPI for scalable web apps
+🚀 AI-Powered Trading – Implementing AI for financial market predictions
+🚀 Optimized C++ Database Handling – Enhancing efficiency for large-scale applications
 
----
+📫 Connect with Me:
+📷 Instagram: @yug.patel
+📩 Email: yugpatelank8@gmail.com
 
-## 🛠 **Tech Stack & Skills:**  
-🔹 **Python & MySQL Connectivity** – Integrating databases efficiently  
-🔹 **Flask & FastAPI** – Developing high-performance APIs  
-🔹 **C++ (OOP, Inheritance, Vectors, Constructors)**  
-🔹 **Frontend Basics** – HTML & CSS  
-🔹 **Data Visualization** – Matplotlib  
-🔹 **Data Manipulation** – NumPy  
-
----
-
-## 📌 **Currently Learning:**  
-🚀 Advanced **Flask & FastAPI** for high-performance APIs  
-🚀 **C++ database connectivity** for optimized data handling  
-
----
-
-## 📫 **Connect with Me:**  
-📷 [Instagram](https://www.instagram.com/___yug.patel___)  
-
----
-
-✨ _Always learning, always building!_ 🚀
+✨ Always learning, always building! 🚀
